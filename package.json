@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "2.7.0",
+  "description": "This is test directory to learn node and git",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImranUllahG/Coursera-git-test.git"
+  },
+  "author": "ImranUllahGondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImranUllahG/Coursera-git-test/issues"
+  },
+  "homepage": "https://github.com/ImranUllahG/Coursera-git-test#readme",
+  "devDependencies": {
+    "light-server": "^2.7.0",
+    "lite-server": "^2.5.4"
+  }
+}
